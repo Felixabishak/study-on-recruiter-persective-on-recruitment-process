@@ -1,219 +1,208 @@
 # Study on Recruiter’s Perspective Towards Recruitment and Selection Process
  
-**Felix Abishak A.**  
-Graduated in Master of Business Administration
----
+Felix Abishak A.
+Master of Business Administration (MBA)
 
-## Table of Contents
+**Table of Contents**
 
-1. Introduction and Design of the Study
-   - Introduction
-   - Scope of the Study
-   - Statement of Problem
-   - Objectives of the Study
-   - Research Methodology
-   - Hypotheses of the Study
-   - Significance of the Study
-   - Period of Study
-   - Tools Used
-   - Limitations of the Study
-   - Chapterisation Scheme
+CHAPTER 1:Introduction and Design of the Study
 
-2. Review of Literature  
-3. Profile of the Study  
-   - Industry Profile  
-   - Company Profile  
-4. Analysis and Interpretation  
-5. Findings, Suggestions, and Conclusion  
-6. References and Bibliography  
+-Introduction
 
----
+-Scope of the Study
 
-## Chapter 1: Introduction and Design of the Study
+-Problem Statement
 
-### 1.1 Introduction
-In today's evolving business environment, recruitment is critical for organizational success. This study explores the challenges faced in hiring, including talent acquisition, background verification, and candidate alignment with organizational goals.
+-Objectives of the Study
 
-### 1.2 Scope of the Study
-Recruitment and selection have transformed with technology, remote hiring, and employer branding. This study evaluates current challenges and opportunities for recruiters.
+-Research Methodology
 
-### 1.3 Statement of Problem
-Key challenges in recruitment include:
-- Finding the right talent for specific roles.
-- Employer’s lack of soft skills training.
-- Background verification issues.
-- Misalignment of candidates with job expectations.
-- Competition for talent in high-demand sectors.
+-Study Hypotheses
 
-### 1.4 Objectives of Study
-- Analyze recruiters’ views on hiring effectiveness.
-- Identify recruitment challenges and strategies.
-- Evaluate existing tools and methods.
-- Suggest improvements and innovations.
+-Study Duration
 
-### 1.5 Research Methodology
--	I Had Taken Data, Some Objectives, To Solve Specific Problem 
-Had On Candidate Recruitment 
--	I Choose Statistics Methods 
+-Tools Used
 
+-Study Limitations
 
-### 1.6 Hypotheses of the Study
-DATA COLLECTION
--	I had taken from primary data 
--	I collect the data by the type of observation  
+-Chapterization Scheme
 
+CHAPTER 2:Review of Literature
 
-### 1.7 Period of Study
-The study was conducted over two months.
+CHAPTER 3:Profile of Study
 
-### 1.8 Tools Used
-- Percentage analysis for recruiter satisfaction assessment.
+CHAPTER 4:Industry Profile
 
-### 1.9 Limitations of the Study
-- Subjectivity in recruiter responses.
-- Time constraints may limit depth of exploration.
-- Social desirability bias in interviews.
+CHAPTER 5:Analysis and Interpretation
 
-### 1.10 Chapterisation Scheme
-1. Introduction and study design  
-2. Literature review  
-3. Company profile and industry analysis  
-4. Data interpretation  
-5. Findings and recommendations  
+CHAPTER 6:Findings, Suggestions, and Conclusion
 
----
+CHAPTER 7:References and Bibliography
 
-## Chapter 2: Review of Literature
+**Chapter 1: Introduction and Design of the Study**
 
-A summary of studies from 2011-2020 on recruitment and selection strategies across industries.
+**1.1 Introduction**
 
----
+Recruitment is currently one of the most prominent activities in this dynamic business world that hold great value to the success of the organization. Hence, this study proposes an investigation into some of the challenges faced in recruitment such as talent acquisition, background verification, alignment of candidates with organizational goals.
 
-## Chapter 3: Profile of the Study
+**1.2 Scope of the Study**
 
-### 3.1 Industry Profile
-Examines recruitment trends and challenges in the HR industry.
+The regional and online recruitment and selection processes were revolutionized with the advent of the Internet to create the concept of remote recruiting and that of employer branding. The study aims to evaluate the state of current challenges and opportunities facing recruiters.
 
-### 3.2 Company Profile
-Case study: Unicon Engineers’ hiring practices and effectiveness.
+**1.3 Statement of Problem**
 
----
+Some of the key challenges faced in recruitment are finding the right talent for a particular job, the need for soft skills training within organizations, the issue of background verification, misalignment of candidates with job expectations, and strong competition, especially in sectors where talent is in high demand.
 
-## Chapter 4: Analysis and Interpretation
+**1.4 Objectives of Study**
 
-### Key Questions Explored:
-1. How to improve candidate identification?  
-- Competency-based interviews
-- Competitive compensation
-- Pre-employment assessments
+-To analyze the recruiters' perceptions regarding the recruitment effectiveness.
 
-2. How to align candidates with job roles?  
-- Clear job descriptions
-- Behavioral interview techniques
-- ATS for screening
+-To draw the recruitment challenges and strategies.
 
-3. How important are soft skills vs. technical skills?  
-- Soft skills impact teamwork and problem-solving.
-- Both skills should be balanced.
+-To evaluate the existing tools and techniques.
 
-4. How to improve background verification?  
-- Direct employer verification
-- Online verification tools
+-To offer suggestions on improvements and innovations.
 
-5. Soft vs. Technical Skills:
-- Soft skills aid relationships and teamwork.
-- Balance both for success.
+**1.5 Research Methodology**
 
-6. Background Checks:
-- Verify employment
-- education and licenses.
-- Standardize for consistency.
+-I undertook the data collection with few objectives towards solving a specific problem on candidate recruitment. 
 
-7. Verifying Credentials:
-- Contact institutions
-- request certificates
-- use verification tools.
+-I adopted statistical methods.
 
-8. Improving Hiring Communication:
-- Regular meetings
-- templates
-- centralized tools.
+**1.6 Hypotheses of the Study**
+**DATA COLLECTION**
 
-9. Job Descriptions:
-- Tailor details
-- update regular
-- Gather team input.
+-I had taken the data from primary data.
 
-10. Attracting Top Talent:
-- Flex work
-- growth
-- competitive pay
-- bonuses.
+-I collect the data through the type of observation.
 
-11. Employer Branding:
-- Showcase culture
-- benefits, and opportunities.
+**1.7 Period of Study**
+The duration of study extends to two months.
 
-12. Employee Development:
-- Online courses
-- in-house training
-- career plans
-- industry events.
+**1.8 Tools Used**
+Percentage is used for assessing recruiter satisfaction.
 
-13. Salaries & Bonuses:
-- Flexible work
-- performance bonuses
-- remote options.
+**1.9 Limitations of the Study**
 
-14. Resume Screening Tools:
-- ATS
-- parsing
-- social media
-- text analysis.
+-Subjectivity of recruiter responses.
 
-15. Managing Resume Influx:
-- ATS
-- automation
-- recruiter training
-- adjust resources.
+-Limited time for analysis and thereby making it less deep.
 
-16. Interview Techniques:
-- Competency-based
-- situational
-- video
-- structured.
+-Presence of social desirability bias during interviews.
 
-17. Standardized Questions:
-- Competency
-- open-ended
-- scenario-based.
+**1.10 Chapterization Scheme**
 
-18. Recruiter Networking:
-- Internal
-- industry events
-- conferences.
+1.Company profile and industry analysis
 
-19. Market Intelligence:
-- ATS integration
-- analytics
-- dashboards.
+2.Data analysis and interpretation 
+
+3.Findings and recommendations  
 
 ---
 
-## Chapter 5: Findings, Suggestions, and Conclusion
+**Chapter 2: Literature Review**
 
-### Key Findings:
-- Recruiters struggle with high application volumes.
-- Background verification remains a challenge.
-- The recruitment process lacks efficiency in some areas.
+A summary of studies on recruitment and selection strategies from 2011 to 2020 by different industries.
 
-### Suggestions:
-- Utilize ATS for resume screening.
-- Provide soft skills training for recruiters.
-- Strengthen employer branding.
+**Chapter 3: Profile of included Case Studies**
 
-### Conclusion:
-Recruitment is a dynamic process requiring continuous improvement in sourcing strategies, technology use, and recruiter training.
+**3.1 Industry Examination**
+
+Studies about the recruitment trends and challenges facing the HR industry.
+
+**3.2 Case Study Example**
+
+Revealing a case study of the hiring practices and results at Unicon Engineers.
+
+**Chapter 4: Analysis and Interpretation:**
+
+Some of the key questions explored were 
+
+**How to improve candidate identification**.
+-Competency-based interviews
+-Competitive compensation
+-Pre-employment assessment
+-Another challenge is aligning candidates with job roles.
+-Clear and precise job descriptions
+-Behavioral interview techniques
+-Use of ATS for screening
+
+**More important in the workplace, are soft skills or technical skills**
+-Skills related to soft skills can help in teamwork and problem-solving.
+-Such skills must be weighed against one another.
+-Improving Background Verification:
+-Employer verification
+-Online verification tools
+
+**Soft Skills vs. Technical Skills:** 
+-A soft touch complements relationships and teamwork.
+
+**Finding the Right Balance:**
+-Verifying Credentials-take reasonable steps to ensure contact with institutions, request copies of credentials, and utilize credential verification tools.
+-Improving Hiring Communication:
+-Periodic meetings
+-Using templates
+-Centralized tools.
+
+**Job Description:**
+-Certain details
+-Regular updating
+-Gathered in consultation with the team.
+-Attracting Talent:
+-Flexibility
+-Being proactive in encouraging growth
+-Proper remuneration
+-Happy bonuses.
+-Employer Deployment:
+-Market culture, benefits, and opportunities.
+
+**Employee Development Opportunities:**
+-Courses offered online, training must be in-house, development-based career plans, events to connect with others in the industry.
+-It will help to retain talent and make it easier to attract others.
+
+**Resumes:**
+-Checks ATS System
+-Social media checks
+-Text analytics.
+
+**Dealing With a Heavy Resignation Stream:**
+-ATS
+-Automation
+-Training recruiters
+-Increase resources to accommodate.
+-Interview Techniques:
+-Competency-based interviews
+-Situational, video, structured
+-Brown's research before it was accepted.
+
+**Standardized and Structured Questions for Interviews:**
+-Competency
+-Open-ended
+-Scenario-based.
+-Recruiter Networking Strategies
+-Internal
+-Industry Events
+-Conferences.
+
+**Market Intelligence:**
+-Integrate ATS and HR analytics
+-Build dashboards.
+
+**Chapter 5: Conclusion Findings and Suggestions:** 
+
+**Key Findings:**
+The overwhelming number of applications being made greatly overburdened recruiters.
+Background verification remains one of the last challenges.
+Some processes of recruitment felt quite undefined.
+
+**Suggestions:**
+Employ ATS for Resumes
+Soft-Skills Training for Recruiters
+Strengthen Employer Branding
+
+**CONCLUSION:**
+
+Recruitment involves a range of processes that must evolve constantly to improve their dates on sourcing techniques, technology use, and extensive training on the recruiters' side. 
 
 ---
 
